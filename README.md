@@ -1,2 +1,2 @@
 # Pratices
-Front-End
+Front-End Development
